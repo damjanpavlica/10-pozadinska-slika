@@ -1,0 +1,7 @@
+body {
+    background-image: url("machu-picchu.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    min-height: 100vh;
+}
